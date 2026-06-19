@@ -21,4 +21,4 @@ Microsoft Excel | Pivot Tables | Pivot Charts | Power Query | Slicers | Conditio
 
 To convert raw sales data into actionable insights that help in understanding business performance and improving decision-making using data visualization techniques.
 
-📌 Note: Raw dataset is large, so it is not included in this repository; only dashboard files are provided.
+📌 Note: Raw dataset is large, so it is not included in this repository; only dashboard files are provided.For access, please contact via GitHub issues.
